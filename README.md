@@ -2,12 +2,12 @@ CenchOS 7 Alpha 0.3
 =======
 
 CenchOS is a free open source Web Server Framework in Alpha stages of development. This differs from a web application framework greatly as the focus of this tool is to build out custom functions and configurations for CentOS server administration and engineering, rather than the websites hosted on it.
-<br>
+<br><br>
 Disclamer: Security, availability, and quality of service are all in mind when developing CenchOS, but use at your own risk.
 No code is obfuscated and most external resources are widely considered as trusted like EPEL, RepoForge, Wordpress.org etc. 
-<br>
+<br><br>
 Usage: in the top 50 lines of the script there are server specific variables that should to be filled out like usernames, passwords, domain names, and optional services. If they are not filled out, the required ones will be prompted on execution. After inputs are received, the installation will continue unattended.
-
+<br><br>
 After completing the variables (or not), run it with any of the following as root:<br>
 ```bash setup.sh```
 
