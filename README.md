@@ -13,8 +13,8 @@ After completing the variables (or not), run it with any of the following as roo
 
 Depending on how much source is compiled, the install can take between 5-30 minutes. Most of this time is spent compiling PHP and Python.<br>
 
-###Features<br>
-####Automagically installed and configured:<br>
+### Features<br>
+#### Automagically installed and configured:<br>
   * NGINX
   * PHP-FPM
   * BIND9 (named)
